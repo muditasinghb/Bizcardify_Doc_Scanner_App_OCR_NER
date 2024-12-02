@@ -1,0 +1,1 @@
+# Bizcardify_Doc_Scanner_App_OCR_NER
